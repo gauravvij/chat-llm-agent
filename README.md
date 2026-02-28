@@ -212,3 +212,11 @@ Goodbye!
 ## License
 
 MIT
+
+---
+
+<div align="center">
+
+[![Made by Neo](https://img.shields.io/badge/Made%20by-Neo-6C63FF?style=for-the-badge&logo=sparkles&logoColor=white)](https://heyneo.com/)
+
+</div>
